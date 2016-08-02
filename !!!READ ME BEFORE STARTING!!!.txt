@@ -1,0 +1,10 @@
+Hello,
+
+Before you start your bot, please enter your credentials in Config/auth.json.
+Edit config.json with caution.
+
+Default location:   lat 40.778915, long -73.962277
+
+Thanks for using our bot!
+https://github.com/crilleaz/PikaBot/
+http://steamcommunity.com/id/crilleaz/
