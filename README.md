@@ -4,5 +4,11 @@ Pokemon GO Bot
 Welcome to PikaBot
 
 Features<br>
-[*]<br>
-test<br>
+<li>Stable release</li><br>
+<li>Stable release</li><br>
+<li>Stable release</li><br>
+<li>Stable release</li><br>
+<li>Stable release</li><br>
+<li>Stable release</li><br>
+<li>Stable release</li><br>
+<li>Stable release</li><br>
