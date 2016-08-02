@@ -22,7 +22,8 @@ Features<br>
 <li>Evolving -IV (Pidget, Weedle, Nidoran etc.)</li><br>
 <li>Transfers duplicate pokemons</li>
 
-
+<p>
+<br>
 <b>Credits</b>
 
 
