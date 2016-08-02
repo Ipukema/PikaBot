@@ -1,0 +1,2 @@
+# PikaBot
+Pokemon GO Bot
