@@ -4,5 +4,5 @@ Pokemon GO Bot
 Welcome to PikaBot
 
 Features
-test
-test
+test<br>
+test<br>
