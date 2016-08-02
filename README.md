@@ -3,6 +3,6 @@ Pokemon GO Bot
 
 Welcome to PikaBot
 
-Features
-test<br>
+Features<br>
+[*]<br>
 test<br>
