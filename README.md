@@ -23,7 +23,7 @@ Features<br>
 <li>Transfers duplicate pokemons</li>
 
 
-Credits
+<b>Credits</b>
 
 
 Thanks to Feroxs' hard work on the API & Console we are able to manage something like this.
