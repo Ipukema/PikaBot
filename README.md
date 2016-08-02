@@ -8,7 +8,7 @@ The bot has been remade and are now capping around 100,000 EXP / H with default 
 
 Features<br>
 <li>Stable release</li><br>
-<li>Fully working Sniper, using http://pokemongoglobal.com/</li><br>
+<li>Fully working Sniper, using http://pokemongoglobal.com/ - List of Pokemons being sniped: http://pastebin.com/VJn2yaMD</li><br>
 <li>Catches Pokemons</li><br>
 <li>Farming Pokestops</li><br>
 <li>Transfers low Pokemons</li><br>
